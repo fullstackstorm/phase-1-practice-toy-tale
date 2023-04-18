@@ -65,7 +65,7 @@ button:hover {
   opacity: .8;
 }
 
-.add-toy-form {
+#add-toy-form {
   width: 80%
 }
 
